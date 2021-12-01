@@ -4,8 +4,8 @@
 
 ## EDUCATION
 THE GEORGE WASHINGTON UNIVERSITY, School of Business	Washington, DC
-Master of Business Administration	May 2022
-* GPA: 3.63, Graduate Certificate in Artificial Intelligence
+Master of Business Administration,STEM focus	May 2022
+* GPA: 3.63, Graduate Certificate in Management of Technology & Innovation
 * Certificate in Data Analytics (Python, JavaScript (D3.js, Leaflet.js), HTML5/CSS, API Interactions, SQL, Tableau, Fundamental Statistics, Machine Learning, R, Git/GitHub)
  
 OLD DOMINION UNIVERSITY	Norfolk, VA
